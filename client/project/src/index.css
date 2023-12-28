@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe Script', 'Segoe Script', 'Segoe Script',
+    'Segoe Script', 'Segoe Script', 'Segoe Script', 'Segoe Script', 'Segoe Script',
+    Segoe Script;
+  -webkit-font-smoothing: Comic ;
+  -moz-osx-font-smoothing: Comic ;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Segoe Script',
+    monospace;
+}
