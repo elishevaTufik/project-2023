@@ -11,7 +11,6 @@ const LazyTodos = React.lazy(() => import("./Components/Todos/Todos"))
 const LazyPhotos = React.lazy(() => import("./Components/Photos/Photos"))
 const LazyPosts = React.lazy(() => import("./Components/Posts/Posts"))
 
-
 function App() {
 
   const[searchVal, setsearchVal]=useState("");
